@@ -2,4 +2,8 @@ Rama 1
 Linea 1
 Linea 2
 Linea 3
+<<<<<<< HEAD
 Segunda linea en rama1
+=======
+Nueva linea en rama1
+>>>>>>> alia_gonzalez_rama
